@@ -151,4 +151,4 @@ In the codes for this tutorial, I have used the VPR techniques CALC, AlexNet and
   organization={IEEE}
 }
 
-This tutorial was developed as part of my affiliation with the Embedded and Intelligent Systems lab at University of Essex, which has been funded by UK-EPSRC, UKRI and the UK-National Center for Nuclear Robotics.   
+This tutorial was developed as part of my affiliation with the Embedded and Intelligent Systems lab at University of Essex, which has been funded by UK-EPSRC and UKRI.   
